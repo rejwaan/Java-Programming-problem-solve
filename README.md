@@ -1,1 +1,1 @@
-Here are some problems solved from the book "Java Programming" in Computer Science & Technology ( 4th Semester). Problems are solved chapter by chapter.
+Here are some problems solved from the book "Java Programming" in Computer Science & Technology ( 4th Semester) ( Diploma ). Problems are solved chapter by chapter.
